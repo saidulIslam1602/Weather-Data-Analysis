@@ -1,0 +1,12 @@
+1.find the number when the weather is exactly clear
+2.find the number of times where wind speed was exactly 4km/hour
+3.alter the weather column name
+4.mean of visibility column
+5.standard deviation of pressure column
+6.variance of relative humidity column
+7.find all instanced when snow was recorded
+8.find all instances when wind is above 25 and visibility is 25
+9.what is the mean value of each column against weather conditions
+10.find the max and min value against weather conditions
+11.find the all instances where weather is clear or visibility above 4.0
+12.find instances for weather is clear and relative humidity is greater than 50 or visibility is above 40
